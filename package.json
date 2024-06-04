@@ -1,17 +1,17 @@
 {
-  "name": "alizah_cli_number_guessing",
+  "name": "aleeze-number-guessing-game",
   "version": "1.0.0",
-  "description": "A Cli based number guessing game",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "aleeza",
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "inquirer": "^9.2.16"
+    "inquirer": "^9.2.23"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
